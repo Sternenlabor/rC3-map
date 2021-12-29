@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":32,
  "infinite":false,
  "layers":[
@@ -193,7 +186,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/hardware-making.json#start_sternenlabor}"
+                 "value":"world:\/\/lobby\/chaoszone.json#start_sternenlabor"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -288,7 +281,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -302,6 +295,16 @@
          "spacing":0,
          "tilecount":2048,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"CC0"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -312,6 +315,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -335,6 +344,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"worldExit",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -348,6 +363,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"rc3_style_set",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":28,
          "tileheight":32,
@@ -364,6 +385,16 @@
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"CC0"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -377,6 +408,16 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"CC0"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -390,6 +431,16 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"CC0"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -403,6 +454,16 @@
          "spacing":0,
          "tilecount":512,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"CC0"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -416,6 +477,16 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"CC0"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -440,7 +511,13 @@
                          "duration":500,
                          "tileid":64
                         }],
-                 "id":0
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"CC0"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -560,6 +637,12 @@
          "imagewidth":1056,
          "margin":0,
          "name":"text",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":1089,
          "tileheight":32,
@@ -736,7 +819,13 @@
                          "duration":250,
                          "tileid":16
                         }],
-                 "id":0
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"CC0"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -823,6 +912,16 @@
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"CC0"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -836,10 +935,20 @@
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"CC0"
+                        }]
+                }],
          "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":32
 }

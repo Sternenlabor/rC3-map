@@ -288,9 +288,9 @@
  "orientation":"orthogonal",
  "properties":[
         {
-         "name":"tilesetCopyright",
+         "name":"mapCopyright",
          "type":"string",
-         "value":"CC0"
+         "value":"Sternenlabor"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
@@ -304,6 +304,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"SLTileset",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Sternenlabor"
+                }],
          "spacing":0,
          "tilecount":2048,
          "tileheight":32,
@@ -317,11 +323,11 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
-         "properties":[
+		 "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"CC0"
+                 "value":"CC-0"
                 }],
          "spacing":0,
          "tilecount":9,
@@ -340,7 +346,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"CC0"
+                 "value":"CC-0"
                 }],
          "spacing":0,
          "tilecount":4,
@@ -359,7 +365,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"CC0"
+                 "value":"CC-0"
                 }],
          "spacing":0,
          "tilecount":28,
@@ -374,6 +380,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-colors-128",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -387,6 +399,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-floor-wall",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -400,6 +418,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-functionary",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -413,6 +437,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-overlay",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0"
+                }],
          "spacing":0,
          "tilecount":512,
          "tileheight":32,
@@ -426,6 +456,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"tilesets_deviant_milkian_1",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -439,6 +475,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-neon-signs",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -573,6 +615,12 @@
          "imagewidth":1056,
          "margin":0,
          "name":"text",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0"
+                }],
          "spacing":0,
          "tilecount":1089,
          "tileheight":32,
@@ -723,6 +771,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"sternenlabor-stern_64px_farbwechsel",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Sternenlabor"
+                }],
          "spacing":0,
          "tilecount":20,
          "tileheight":32,
@@ -833,6 +887,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"sternenlabor-stern32_rot",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Sternenlabor"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -846,6 +906,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"sternenlabor-stern64_rot",
+		          "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Sternenlabor"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,

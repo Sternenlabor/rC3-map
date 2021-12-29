@@ -8,12 +8,6 @@
          "id":4,
          "name":"collides",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":true
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":32,
@@ -304,7 +298,7 @@
          "imagewidth":1024,
          "margin":0,
          "name":"SLTileset",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -323,7 +317,7 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -332,6 +326,16 @@
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":3,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -380,7 +384,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-colors-128",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -399,7 +403,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-floor-wall",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -418,7 +422,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-functionary",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -437,7 +441,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-overlay",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -456,7 +460,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"tilesets_deviant_milkian_1",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -475,7 +479,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-neon-signs",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -615,7 +619,7 @@
          "imagewidth":1056,
          "margin":0,
          "name":"text",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -771,7 +775,7 @@
          "imagewidth":64,
          "margin":0,
          "name":"sternenlabor-stern_64px_farbwechsel",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -887,7 +891,7 @@
          "imagewidth":32,
          "margin":0,
          "name":"sternenlabor-stern32_rot",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -906,7 +910,7 @@
          "imagewidth":64,
          "margin":0,
          "name":"sternenlabor-stern64_rot",
-		          "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",

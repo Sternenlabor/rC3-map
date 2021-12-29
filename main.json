@@ -8,6 +8,12 @@
          "id":4,
          "name":"collides",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":32,
@@ -280,6 +286,12 @@
  "nextlayerid":21,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"CC0"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
@@ -295,16 +307,6 @@
          "spacing":0,
          "tilecount":2048,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
@@ -324,16 +326,6 @@
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":3,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
@@ -385,16 +377,6 @@
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
@@ -408,16 +390,6 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
@@ -431,16 +403,6 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
@@ -454,16 +416,6 @@
          "spacing":0,
          "tilecount":512,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
@@ -477,16 +429,6 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
@@ -511,13 +453,7 @@
                          "duration":500,
                          "tileid":64
                         }],
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0"
-                        }]
+                 "id":0
                 }, 
                 {
                  "animation":[
@@ -637,12 +573,6 @@
          "imagewidth":1056,
          "margin":0,
          "name":"text",
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"CC0"
-                }],
          "spacing":0,
          "tilecount":1089,
          "tileheight":32,
@@ -819,13 +749,7 @@
                          "duration":250,
                          "tileid":16
                         }],
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0"
-                        }]
+                 "id":0
                 }, 
                 {
                  "animation":[
@@ -912,16 +836,6 @@
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
@@ -935,16 +849,6 @@
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0"
-                        }]
-                }],
          "tilewidth":32
         }],
  "tilewidth":32,
